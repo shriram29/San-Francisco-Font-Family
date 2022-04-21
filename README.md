@@ -13,3 +13,17 @@
 5. SF Ui
    1. Display
    2. Text
+
+### Importing in a Website
+
+#### SF Pro
+
+```
+<link rel="preload" href="https://shriram29.github.io/San-Francisco-Font-Family/SF-Pro/SF-Pro.ttf" as="font" type="font/ttf" crossorigin />
+```
+
+```
+.font-class {
+   font-family: 'SF Pro';
+}
+```
